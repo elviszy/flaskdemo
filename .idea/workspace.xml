@@ -98,6 +98,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -112,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-2568" />
     <option name="y" value="-551" />
     <option name="width" value="1374" />
@@ -306,8 +309,7 @@
     <option name="totallyTimeSpent" value="9595000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2568" y="-551" width="2576" height="1426" extended-state="7" />
-    <editor active="true" />
+    <frame x="-2568" y="-551" width="2576" height="1426" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25198728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
